@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi 👋 Nelson here
+
+---
+
+![Twitter follow](https://img.shields.io/twitter/follow/sugardruid?style=social)
+
+---
+
+I am a front-end developer focusing on web and mobile.
 
 <!--
 **nelsliu9121/nelsliu9121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
